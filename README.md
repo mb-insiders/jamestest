@@ -1,5 +1,4 @@
 # James Dong Test Project
-### ----------------------------------------------- 1/26/2022
 
 The purpose of this project is to provide insight into the abilities
 and motivations of the test subject. This project is expected to take 
